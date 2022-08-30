@@ -79,8 +79,8 @@ client.on('ready', () => {
   // Oynuyor Kısmı
   
       var actvs = [
-        `${prefix}yardım ${client.guilds.cache.size} sunucuyu`,
-        `${prefix}yardım ${client.users.cache.size} Kullanıcıyı`, 
+        `${prefix}yardım ${client.guilds.cache.size} ✵𝙐𝙉𝙏`,
+        `${prefix}yardım ${client.users.cache.size} Fix`, 
         `${prefix}yardım`
     ];
     
@@ -91,8 +91,8 @@ client.on('ready', () => {
     
   
       console.log ('_________________________________________');
-      console.log (`Kullanıcı İsmi     : ${client.user.username}`);
-      console.log (`Sunucular          : ${client.guilds.cache.size}`);
+      console.log (`✵𝙐𝙉𝙏 Guard V.Ⅰ    : ${client.user.username}`);
+      console.log (`✵𝙐𝙉𝙏 RolePLay         : ${client.guilds.cache.size}`);
       console.log (`Kullanıcılar       : ${client.users.cache.size}`);
       console.log (`Prefix             : ${ayarlar.prefix}`);
       console.log (`Durum              : Bot Çevrimiçi!`);
